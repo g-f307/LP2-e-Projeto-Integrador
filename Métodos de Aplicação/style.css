@@ -13,6 +13,7 @@ html, body {
     background-color: #072768;
     color: #fff;
     padding: 20px;
+    font-family: 'gblack';
   }
   
   header h1 {
@@ -22,9 +23,12 @@ html, body {
   
   nav {
     background-color: #5079B2;
+
     color: #fff;
     text-align: center;
     padding: 10px;
+    font-size: 1.2em;
+    font-family: 'gm1';
   }
   
   nav ul {
@@ -54,6 +58,7 @@ html, body {
     background-color: #fff;
     color: #000000;
     text-align: center;
+    font-family: 'gb';
     flex: 1; 
   }
   
@@ -62,6 +67,7 @@ html, body {
     color: #fff;
     padding: 20px;
     flex-shrink: 0; 
+    font-family: 'gm';
   }
   
   p {
@@ -91,4 +97,31 @@ html, body {
     display: block;
     margin: 0 auto;
   }
-  
+
+  @font-face {
+    font-family: 'gblack';
+    src: url('Gotham-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'gb';
+    src: url('GothamBook.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'gm';
+    src: url('GothamMedium.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'gm1';
+    src: url('GothamMedium_1.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
