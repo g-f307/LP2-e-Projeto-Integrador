@@ -84,6 +84,11 @@ html, body {
     flex-direction: column;
     text-align: justify;
   }
+
+  .p-container2 {
+    display: block;
+    margin: 0 auto;
+  }
   
   @media screen and (max-width: 768px) {
     .p-container {

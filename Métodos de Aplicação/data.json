@@ -1,0 +1,20 @@
+{
+    "videos": [
+        {
+            "title": "1- Golang (Resumido)",
+            "url": "https://www.youtube.com/embed/2kyNEf9IsBQ"
+        },
+        {
+            "title": "2- Golang (Extenso)",
+            "url": "https://www.youtube.com/embed/k3M3yJE4yPA"
+        },
+        {
+            "title": "3- VueJs (Resumido)",
+            "url": "https://www.youtube.com/embed/bEl6yN3vd-U"
+        },
+        {
+            "title": "4- VueJs (Extenso)",
+            "url": "https://www.youtube.com/embed/cSa-SMVMGsE"
+        }
+    ]
+}
