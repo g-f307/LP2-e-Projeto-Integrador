@@ -158,28 +158,28 @@ img {
 
 @font-face {
   font-family: 'gblack';
-  src: url('Gotham-Black.otf');
+  src: url('fonts/Gotham-Black.otf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'gb';
-  src: url('GothamBook.ttf');
+  src: url('fonts/GothamBook.ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'gm';
-  src: url('GothamMedium.ttf');
+  src: url('fonts/GothamMedium.ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'gm1';
-  src: url('GothamMedium_1.ttf');
+  src: url('fonts/GothamMedium_1.ttf');
   font-weight: normal;
   font-style: normal;
 }

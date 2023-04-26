@@ -1,0 +1,17 @@
+[
+      {    "id": "1",    "titulo": "Introdução ao Golang",    
+           "descricao": "Nesta aula, você aprenderá os conceitos básicos da linguagem Golang.",    
+           "url": "https://www.youtube.com/embed/2kyNEf9IsBQ"  },  
+
+      {    "id": "2",    "titulo": "Criando uma aplicação com Golang",    
+           "descricao": "Nesta aula, você aprenderá como criar uma aplicação com linguagem Golang.",    
+           "url": "https://www.youtube.com/embed/k3M3yJE4yPA"  },  
+
+      {    "id": "3",    "titulo": "Introdução ao VueJs",
+           "descricao": "Nesta aula, você aprenderá os conceitos básicos da linguagem VueJs.",
+           "url": "https://www.youtube.com/embed/bEl6yN3vd-U"  },
+    
+      {    "id": "3",    "titulo": "Criando uma aplicação com VueJs",
+           "descricao": "Nesta aula, você aprenderá como criar uma aplicação com linguagem VueJs.",
+           "url": "https://www.youtube.com/embed/cSa-SMVMGsE"  }
+]
