@@ -183,3 +183,22 @@ img {
   font-weight: normal;
   font-style: normal;
 }
+
+.icons a{
+  display: inline-flex;
+  width: 50px;
+  height: 50px;
+  background: #072768;
+  color: white;
+  margin: 0 6px;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.icons a:hover{
+  background: #5079B2;
+}
