@@ -1,16 +1,23 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
+    "@prisma/client": "^4.16.1",
+    "express": "^4.18.2",
+    "prisma": "^4.16.1",
+    "sqlite-async": "^1.2.0"
   },
   "name": "lp2-e-projeto-integrador",
-  "description": "",
+  "type": "module",
+  "description": "link https://g-f307.github.io/Metodos-de-Aplicacao/public/home.html",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/app.js"
+    "start": "nodemon app.js"
   },
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC"
